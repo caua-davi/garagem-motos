@@ -19,3 +19,4 @@ class Futuro {
  System.out.println("Sua Meta é " + Meta);
   }
 }
+// segundo projeto
